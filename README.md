@@ -1,9 +1,4 @@
-<div id="header" align="center">
-  <img src="https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630"/>
-</div>
-
-<h3 align="left">👨‍🚀 Hello world!, I'm Hicham</h3>
-<p>  </p>
+![Hello world!](https://user-images.githubusercontent.com/99076537/222185967-c4754945-859c-4807-a35c-7c13a875e94d.png)
 
 ---
 
