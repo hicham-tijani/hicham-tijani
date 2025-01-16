@@ -6,7 +6,7 @@
 
 
 - 🎯 I’m currently learning **Mendix**
-- 🗽  I'm currently working in **Siemens** - Jr software developer
+- 🗽  I'm currently working in **Engineering** - Software developer
 - 📫 How to reach me **hicham.tijani21@gmail.com**
 
 ### 💫Social
