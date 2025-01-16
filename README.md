@@ -5,8 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hicham-tijani&label=Profile%20views&color=0e75b6&style=flat" alt="hicham-tijani" /> </p>
 
 
-- 🎯 I’m currently learning **Mendix**
-- 🗽  I'm currently working in **Engineering** - Software developer
+- 🗽  I'm working in **Engineering** - Software developer
 - 📫 How to reach me **hicham.tijani21@gmail.com**
 
 ### 💫Social
